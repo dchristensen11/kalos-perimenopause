@@ -193,10 +193,10 @@ strong{color:var(--text);font-weight:700}
 [data-theme="dark"] .action .lab{color:var(--primary)}
 .action .lab::before{content:'';width:20px;height:2px;background:currentColor;display:block;flex:none}
 .action p{color:#DDE3FF;font-size:15.5px;line-height:1.78}
-[data-theme="dark"] .action p{color:var(--text-sec)}
+[data-theme="dark"] .action p{color:#3E4674}
 .action p + p{margin-top:14px}
 .action b{color:#fff;font-weight:700}
-[data-theme="dark"] .action b{color:var(--text)}
+[data-theme="dark"] .action b{color:#0D1125}
 
 /* ---------- buttons ---------- */
 .btn-solid{
